@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CTA({onClick}) {
+export default function CTA({onStart}) {
   return (
 <div>
 <section className="px-4 py-16">
